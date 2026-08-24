@@ -1,4 +1,4 @@
-# multi-vertical-conglomerate-mis
+# Multi-vertical-conglomerate-mis
 
 A group-level MIS project consolidating quarterly business performance across multiple verticals into a single leadership-facing view - built as both an Excel/Power BI dashboard and a queryable MySQL backend, the kind of dual reporting layer used at a diversified infrastructure conglomerate's HQ.
 
